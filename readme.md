@@ -23,4 +23,4 @@
 
 ### MIT License
 
-Copyright (c) 2018 **_RC productions_**
+Copyright (c) 2018-2019 **_RC productions_**
