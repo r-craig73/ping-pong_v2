@@ -16,7 +16,7 @@
 1. Clone the file.
 2. In the root directory, install npm `$ npm install` to download several dependencies.  Update modules if multiple "moderate to high" vulnerabilities are present.
 3. In the root directory, run `$ npm run build` to build the code.
-4. If the build is successful, open the `index.html` file (./src/index.html) in a browser.
+4. If the build is successful, open the `index.html` file (./dist/index.html) in a browser.
 
 ### Technology Used
 * Node Package Manager (organizing webpacks and dependencies)
